@@ -1,0 +1,9 @@
+->write the name of all the libraries used in the project
+
+->pip freeze (tells you about all the libraries with their versions used)
+-> pip freeze | grep streamlit (only streamlit's version will be displayed)
+
+->pip install -r .\requirements.txt (installs all the libraries required in the project)
+
+-> it is a very good practice to have a README.md file in your project
+-> learn how to make README.md files in chatgpt/google
